@@ -14,12 +14,12 @@
 
 ## Part 2 - Find Researchers Online 
 
-## ** My Thesis Committee **
+### **My Thesis Committee**
 
-[Director: Dr. Jian Wu](https://scholar.google.com/citations?hl=en&user=-eRsYx8AAAAJ)
-[Member: Dr. Vikas Ashok](https://scholar.google.com/citations?hl=en&user=Of8dNP0AAAAJ) Old Dominion University  
-[Member: Dr. Meng Jiang](https://scholar.google.com/citations?hl=en&user=LZIPfCkAAAAJ), University of Notre Dame
-Link to Dr. Jiang's [webpage](http://www.meng-jiang.com/)
+Director: [Dr. Jian Wu](https://scholar.google.com/citations?hl=en&user=-eRsYx8AAAAJ), Old Dominion University      
+Member: [Dr. Vikas Ashok](https://scholar.google.com/citations?hl=en&user=Of8dNP0AAAAJ) Old Dominion University    
+Member: [Dr. Meng Jiang](https://scholar.google.com/citations?hl=en&user=LZIPfCkAAAAJ), University of Notre Dame  
+Link to Dr. Jiang's [webpage](http://www.meng-jiang.com/)  
 
 
 ## Part 3 - #cs800s25 #TIL 
